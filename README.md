@@ -9,6 +9,6 @@ It's a performant, memory-safe tool just to glance the potential of Rust in maki
 
 But Rust also can be a high level programming language that includes WebAssembly.
 
-### So... let's get WebAssembly!!
+### So... let's get WebAssembled!!
 
 Next step: [Tasker Web]
